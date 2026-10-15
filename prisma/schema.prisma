@@ -7,9 +7,6 @@ generator client {
   provider = "prisma-client-js"
 }
 
-toolchain {
-  // Use Node.js runtime for Prisma
-}
 
 // ====================
 // MODEL DEFINITIONS
