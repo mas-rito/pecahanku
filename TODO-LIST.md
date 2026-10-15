@@ -3,7 +3,7 @@
 
 ## Fase 1: Fondasi & Setup
 - [DONE] Inisialisasi Next.js App Router dengan TypeScript (folder: PecahanKu, bukan subfolder)
-- [PENDING] Install Tailwind CSS
+- [DONE] Install Tailwind CSS + design tokens (globals.css: zona, mascot, radius, shadow)
 - [PENDING] Setup Zustand
 - [PENDING] Setup PostgreSQL (Neon) + Prisma ORM
 - [PENDING] Setup NextAuth.js
