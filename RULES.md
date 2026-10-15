@@ -1,9 +1,11 @@
 # PROJECT RULES — PecahanKu
 
-## 1. Git & Deployment
+## 1. Git & Deployment (CRITICAL)
 - Setiap selesai 1 TODO → commit + push ke GitHub
 - Commit message: `[PHASE-X] deskripsi singkat task`
 - Jangan push kode broken (pastikan build pass)
+- **.env dan semua file berisi kredensial DB/API KEY HARUS ada di `.gitignore` — JANGAN pernah push ke GitHub!**
+- Kalau .env sudah terpush → segera rotate kredensial + hapus dari git history
 
 ## 2. Database
 - **Wajib pakai Neon** (bukan Supabase/local-only)
