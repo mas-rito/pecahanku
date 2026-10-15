@@ -5,7 +5,7 @@
 - [DONE] Inisialisasi Next.js App Router dengan TypeScript (folder: PecahanKu, bukan subfolder)
 - [DONE] Install Tailwind CSS + design tokens (globals.css: zona, mascot, radius, shadow)
 - [DONE] Setup Zustand (store/appStore.ts)
-- [PENDING] Setup PostgreSQL (Neon) + Prisma ORM
+- [INPROGRESS] Setup PostgreSQL (Neon) + Prisma ORM (@prisma/client installed, generate pending manual CLI fix)
 - [PENDING] Setup NextAuth.js
 - [PENDING] Install dependencies (framer-motion, confetti)
 
